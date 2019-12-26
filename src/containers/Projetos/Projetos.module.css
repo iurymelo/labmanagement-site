@@ -1,0 +1,25 @@
+.MainContainer {
+    margin-top: -20px;
+    min-width: 100%;
+    height: 100%;
+    background-color: snow;
+    z-index: -1;
+    position: absolute;
+    padding-top: 40px;
+}
+
+.LeftContainer {
+    width: 200px;
+    height: 800px;
+    padding-top: 80px;
+    padding-left: 20px;
+}
+
+.CenterContainer {
+    margin: auto;
+    justify-content: center;
+    padding: 40px;
+    width: 95%;
+    height:90%;
+    background-color: #fff;
+}
